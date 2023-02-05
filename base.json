@@ -1,4 +1,11 @@
-[{
+[
+{
 "response":"what do you think I am? a bank?",
 "trigger":"daily"
-}]
+}
+,
+{
+"response""hiပါ",
+"trigger":"hello"
+}
+]
