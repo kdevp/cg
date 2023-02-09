@@ -5,5 +5,12 @@
     "status": "Working Here\nAlways Active",
     "active": "true",
     "server": "https://github.com/kdevp/cg/raw/main/base.json"
+  },
+  {
+    "name": "VCG Bot 2",
+"profile":"",
+    "status": "Working Here\nAlways Active",
+    "active": "false",
+    "server": "https://github.com/kdevp/cg/raw/main/base.json"
   }
 ]
