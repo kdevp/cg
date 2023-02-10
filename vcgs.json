@@ -1,16 +1,17 @@
 [
   {
-    "name": "VCG Bot 1",
+    "name": "Yoon Lay",
 "profile":"",
     "status": "Working Here\nAlways Active",
     "active": "true",
     "server": "https://github.com/kdevp/cg/raw/main/base.json"
   },
   {
-    "name": "VCG Bot 2",
+    "name": "Yadanar",
 "profile":"",
     "status": "Working Here\nAlways Active",
-    "active": "false",
-    "server": "https://github.com/kdevp/cg/raw/main/base.json"
+    "active": "true",
+    "server": "https://github.com/kdevp/cg/raw/main/base.json",
+"vip":true
   }
 ]
